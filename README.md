@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erayskywalker&label=Profile%20views&color=0e75b6&style=flat" alt="erayskywalker" /> </p>
 
 <h4 align="center">
-- 🌱 i’m currently learning **unreal engine 5**
+ 🌱 i’m currently learning **unreal engine 5**
 
-- 💬 ask me about **unity**
+ 💬 ask me about **unity**
 
-- 📫 contact **eraykt@gmail.com**
+ 📫 contact **eraykt@gmail.com**
 </h4>
 
 <h3 align="center">Connect with me:</h3>
