@@ -9,6 +9,15 @@
 
 - 📫 contact **eraykt@gmail.com**
 
+<h3 align="left">My games:</h3>
+[My Idle Village](https://play.google.com/store/apps/details?id=com.EraySkywalker.MyIdleVillage)
+
+[Cooking Craft Clone](https://github.com/erayskywalker/CookingCraftClone)
+
+[ZigZag Clone](https://github.com/erayskywalker/ZigZagClone)
+
+[ParkingJam Clone](https://github.com/erayskywalker/ParkingJamClone)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eraykt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eraykt" height="30" width="40" /></a>
