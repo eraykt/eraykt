@@ -3,11 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erayskywalker&label=Profile%20views&color=0e75b6&style=flat" alt="erayskywalker" /> </p>
 
+<p align="center">
 - 🌱 i’m currently learning **unreal engine 5**
 
 - 💬 ask me about **unity**
 
 - 📫 contact **eraykt@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
