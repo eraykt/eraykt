@@ -7,7 +7,7 @@
 
 - 💬 ask me about **unity**
 
-- 📫 contact **eraykt@gmail.com**
+- 📫 contact **alieraykt@gmail.com**
 
 <h3 align="left">My games:</h3>
 
