@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋, i'm eray</h1>
 <h3 align="center">game developer from turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eraykt&label=Profile%20views&color=0e75b6&style=flat" alt="erayskywalker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erayskywalker&label=Profile%20views&color=0e75b6&style=flat" alt="erayskywalker" /> </p>
 
 - 🌱 i’m currently learning **unreal engine 5**
 
